@@ -1,17 +1,10 @@
-# Material formativo de CodeURJC
+# Material formativo de Codigus
 
-Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte CodeURJC.
+Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte Codigus.
 
-# ¿Qué es CodeURJC?
+# Materiales formativos
 
-CodeURJC es el Laboratorio de Software de la Universidad Rey Juan Carlos y nos dedicamos a:
-* Formación: Asignaturas de grados universitarios, cursos en abierto, cursos a empresas, elaboración de libros docentes, etc.
-* Consultoría: Ayudamos a empresas tecnológicas a mejorar sus procesos de desarrollo y despliegue
-* Desarrollo de productos: Creamos productos digitales que ponemos al servicio de la comunidad y nuestros clientes
-
-# Material formativo
-
-En CodeURJC impartimos formación en las siguientes áreas:
+En Codigus impartimos formación en las siguientes áreas:
 * Tecnologías web:
   * [HTML y CSS](https://github.com/formacion-codeurjc/web-html-css)
   * [Java Spring](https://github.com/formacion-codeurjc/spring)
@@ -32,3 +25,21 @@ En CodeURJC impartimos formación en las siguientes áreas:
 * Desarrollo móvil
   * Android
   * Flutter
+
+# ¿Qué es Codigus?
+
+Codigus es un equipo de profesionales del desarrollo software que tenemos como misión ayudar y acompañar a otros para que puedan crear software de calidad que sea útil para sus usuarios.
+
+Para ello, llevamos a cabo diferentes actividades:
+* Conversaciones: Intercambiamos opiniones sobre aspectos relacionados con el desarrollo software. Algunas veces en forma de podcast, otras en forma de videoconferencias en directo, etc.
+* Formación: Cursos en abierto, cursos a empresas, formación en grados y másteres universitarios, elaboración de libros docentes, etc.
+* Consultoría: Ayudamos a empresas tecnológicas a mejorar sus procesos de desarrollo y despliegue de software.
+* Desarrollo de productos: No podemos ayudar a otros si no conocemos de primera mano aquello de lo que hablamos. Por ello, participamos en el desarrollo de productos digitales que ponemos al servicio de la comunidad y nuestros clientes.
+
+# ¿Quiénes somos?
+
+* Micael Gallego Carrillo
+* Luis Fenrnández Muñoz
+* Michel Maes Bermejo
+* Oscar Soto Sánchez
+* Iván Chicano Capelo
