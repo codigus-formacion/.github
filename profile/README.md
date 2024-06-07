@@ -1,15 +1,15 @@
-# Formación CodeURJC
+# Material formativo de CodeURJC
 
-Esta organización contiene el software usado en las formaciones que impartimos en CodeURJC.
+Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte CodeURJC.
 
 # ¿Qué es CodeURJC?
 
 CodeURJC es el Laboratorio de Software de la Universidad Rey Juan Carlos y nos dedicamos a:
 * Formación: Asignaturas de grados universitarios, cursos en abierto, cursos a empresas, elaboración de libros docentes, etc.
 * Consultoría: Ayudamos a empresas tecnológicas a mejorar sus procesos de desarrollo y despliegue
-* Productos: Creamos productos digitales que ponemos al servicio de la comunidad y nuestros clientes
+* Desarrollo de productos: Creamos productos digitales que ponemos al servicio de la comunidad y nuestros clientes
 
-# Contenidos formativos
+# Material formativos
 
 En CodeURJC impartimos formación en las siguientes áreas:
 * Tecnologías web:
