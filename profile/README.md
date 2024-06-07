@@ -1,10 +1,7 @@
 # Material formativo de Codigus
 
-Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte Codigus.
+Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte Codigus:
 
-## Materiales formativos
-
-En Codigus impartimos formación en las siguientes áreas:
 * Tecnologías web:
   * [HTML y CSS](https://github.com/formacion-codeurjc/web-html-css)
   * [Java Spring](https://github.com/formacion-codeurjc/spring)
