@@ -9,7 +9,7 @@ CodeURJC es el Laboratorio de Software de la Universidad Rey Juan Carlos y nos d
 * Consultoría: Ayudamos a empresas tecnológicas a mejorar sus procesos de desarrollo y despliegue
 * Desarrollo de productos: Creamos productos digitales que ponemos al servicio de la comunidad y nuestros clientes
 
-# Material formativos
+# Material formativo
 
 En CodeURJC impartimos formación en las siguientes áreas:
 * Tecnologías web:
