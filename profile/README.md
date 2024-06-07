@@ -2,7 +2,7 @@
 
 Esta organización en GitHub contiene repositorios con material formativo usado en las formaciones que imparte Codigus.
 
-# Materiales formativos
+## Materiales formativos
 
 En Codigus impartimos formación en las siguientes áreas:
 * Tecnologías web:
@@ -26,7 +26,7 @@ En Codigus impartimos formación en las siguientes áreas:
   * Android
   * Flutter
 
-# ¿Qué es Codigus?
+## ¿Qué es Codigus?
 
 Codigus es un equipo de profesionales del desarrollo software que tenemos como misión ayudar y acompañar a otros para que puedan crear software de calidad que sea útil para sus usuarios.
 
@@ -36,8 +36,7 @@ Para ello, llevamos a cabo diferentes actividades:
 * Consultoría: Ayudamos a empresas tecnológicas a mejorar sus procesos de desarrollo y despliegue de software.
 * Desarrollo de productos: No podemos ayudar a otros si no conocemos de primera mano aquello de lo que hablamos. Por ello, participamos en el desarrollo de productos digitales que ponemos al servicio de la comunidad y nuestros clientes.
 
-# ¿Quiénes somos?
-
+Codigus está formado por:
 * Micael Gallego Carrillo
 * Luis Fenrnández Muñoz
 * Michel Maes Bermejo
