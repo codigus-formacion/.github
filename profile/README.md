@@ -15,7 +15,8 @@ Esta organización en GitHub contiene repositorios con material formativo usado 
   * [Pruebas](https://github.com/formacion-codeurjc/pruebas)
   * Código limpio
   * Patrones de diseño
-  * Arquitectura
+  * [Arquitectura](https://github.com/codigus-formacion/arquitectura)
+  * [Análisis estático](https://github.com/codigus-formacion/analisis-estatico)
 * Integración y despliegue continuo
 * Repositorios y modelos de desarrollo
   * Git  
