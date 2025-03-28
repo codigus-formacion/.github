@@ -21,9 +21,7 @@ Esta organización en GitHub contiene repositorios con material formativo usado 
 * Integración y despliegue continuo
 * Repositorios y modelos de desarrollo
   * Git  
-* Desarrollo móvil
-  * Android
-  * Flutter
+* [Desarrollo móvil con Android y Flutter](https://github.com/codigus-formacion/desarrollo-movil)
 
 ## ¿Qué es Codigus?
 
