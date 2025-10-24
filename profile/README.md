@@ -5,9 +5,9 @@ Esta organización en GitHub contiene repositorios con material formativo usado 
 * Tecnologías web:
   * [HTML y CSS](https://github.com/formacion-codeurjc/web-html-css)
   * [Java Spring](https://github.com/formacion-codeurjc/spring)
-  * [JavaScript](https://github.com/formacion-codeurjc/javascript)
+  * [JavaScript (Node y browser)](https://github.com/formacion-codeurjc/javascript)
   * [JavaScript en Front](https://github.com/formacion-codeurjc/javascript-front)
-  * [Node y Express](https://github.com/formacion-codeurjc/express)
+  * [Express](https://github.com/formacion-codeurjc/express)
   * [Angular](https://github.com/formacion-codeurjc/angular)
   * [Spring](https://github.com/formacion-codeurjc/spring)
 * [Seguridad informática](https://github.com/formacion-codeurjc/seguridad)
